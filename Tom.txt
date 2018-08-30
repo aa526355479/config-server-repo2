@@ -1,0 +1,4 @@
+name=tom
+sex=男
+age=24
+hobby=lol
